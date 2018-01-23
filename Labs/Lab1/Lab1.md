@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 1: Suspicious Sushi
 
 ## Background
 You and some friends have just had a dinner at a local sushi bar. Being the inquisitive biologist, you wonder if your group really ate what was listed on the menu (i.e., was the sashimi really what it claimed to be). So you set out to test this hypothesis by saving a bit of tissue from your sashimi. The menu lists the following possibilities: “Hirame” (flounder), “Sake” (salmon), “Hamachi” (yellowtail), and “Maguro” (tuna) sashimi plates. You ordered the Maguro. Given the following sequence from your dinner, design PCR primers to amplify the following exact sequence of DNA (for the sake of simplicity) from your samples. Assume you collected the following sequence using your PCR primers. Compare this sequence to potential candidate species (for example, what is the relative percent identity of your query sequence to the different target sequences?). Tell me your findings. Write up your approach following the guidelines below, **save it as a PDF document**, and submit it to Blackboard by 5:00 pm on the due date.
@@ -22,6 +22,7 @@ TTATACCAACACCTGTTCTGATTCTTTGGCCACCCC
 Begin the paper with an original title, followed by your name, the course name, and the date. All write-ups should be single-spaced and in 12 pt font. Your paper should have all of the following sections.
 
 ### Sections
+0. **Title:** A concise, but informative quick summary or description of the report.
 1. **Introduction:** Introduce the general problem or issue you are addressing. Provide the background context for the reader. You should prepare the reader for the following sections of the report as well as convince the reader that you are tackling a problem worth addressing in your work.
 2. **Materials and Methods:** Describe the methods used to obtained the data, analyze the data, and test hypotheses associated with the data. You should explicitly mention and cite any bioinformatic tools used. You may wish to provide the parameters (settings) of any software that you used, if relevant or important.
 3. **Results:** Provide and describe the results of the data analysis and hypothesis testing. This may include presenting charts, tables, pictures, and other figures when appropriate for effectively communicating your results. This section is primarily for *only* presenting the results. The following section is for discussing them.
