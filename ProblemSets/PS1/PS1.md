@@ -14,3 +14,5 @@ CCGTCGTAGCACCGAGCCTCAGCACCACGAAAGAGATTGA
 AGTAGTTCCTCGGAAAGTTCTTCGACTCTTCCTTGAAACA
 TGTCTTCCTGGAGCAACCAACCTGCCATGGATGATTATGG
 ```
+Answer the following questions:
+What does this sequence encode?  From what organism does this sequence come?  What is the function of this gene? What are the proportions of polar, non-polar, and charged amino acids?  (attach a link to or copy of the resource you used to help you determine the last question)
