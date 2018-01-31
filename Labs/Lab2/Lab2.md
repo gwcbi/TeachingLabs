@@ -39,5 +39,3 @@ Begin the paper with an original title, followed by your name, the course name, 
 4. **Discussion:**  Interpret your results and discuss their implications with the reader. This section should include a synthesis of ideas.
 5. **Conclusion:** Wrap up and summarize the paper. You may also wish to discuss the future direction of similar research here, if relevant. The conclusion does not need to be its own section—you may choose to put a concluding section at the end of discussion. Your paper, however, should include some piece of writing the neatly wraps up your report.
 6. **References:** List the relevant literature you have read and used to support your arguments/analyze your data. The literature cited should be in the format of the journal *Bioinformatics*. If you are unfamiliar with this citation style, look up the guidelines for it in the journal's "Instructions to Authors" guide. Failure to cite work used may be considered plagiarism, if the offense is serious.
-
-## Frequently Asked Questions

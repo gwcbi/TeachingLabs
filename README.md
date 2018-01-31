@@ -10,6 +10,10 @@ Labs are designed to provide in-depth experience in developing novel software, u
 
 [Lab 2: Finding and Reviewing Scientific Articles](Labs/Lab2/Lab2.md) [[pdf]](Labs/Lab2/Lab2.pdf)
 
+[Lab 3: Build a Tree](Labs/Lab3/Lab3.md) [[pdf]](Labs/Lab3/Lab3.pdf)
+
+[Lab 4: Programming in Python](Labs/Lab4/Lab4.md) [[pdf]](Labs/Lab4/Lab4.pdf)
+
 ## Problem Sets
 Problem sets are key to exploring the concepts introduced both in class and in the textbook. These are meant to provide an opportunity to more deeply understand concepts and put them into practice and provide an opportunity for data manipulation. Students are permitted to work collaboratively, in groups, on the problem sets.
 
