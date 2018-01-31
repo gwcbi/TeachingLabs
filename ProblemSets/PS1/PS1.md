@@ -1,4 +1,4 @@
-# Problem Set 1
+# Problem Set 1: BLAST and GenBank
 
 Answer the following questions related to performing the requested tasks and then include your answers in an electronic file, save as a pdf, and merge together as a single pdf.  Upload your PDF file to the Blackboard Assignment page for Problem Set 2 by 5 pm on the due date.
 

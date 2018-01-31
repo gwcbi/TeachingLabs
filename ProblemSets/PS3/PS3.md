@@ -1,6 +1,6 @@
 # Problem Set 3: Curricula vitae, careers and alignments
 
-Answer the following questions related to performing the requested tasks and then include your answers in an electronic file, save as a pdf, and merge together as a single pdf.  Upload your PDF file to the Blackboard Assignment page for Problem Set 2 by 5 pm on the due date.
+Answer the following questions related to performing the requested tasks and then include your answers in an electronic file, save as a pdf, and merge together as a single pdf.  Upload your PDF file to the Blackboard Assignment page for Problem Set 3 by 5 pm on the due date.
 
 ## Part 0
 Develop a CV for yourself-if you already have one, take some time to refine it.  Include the information we've talked about in class and anything else you think might be relevant.  Be sure to format it is an attractive way so you win the hypothetical award/grant/job!!!  
