@@ -1,6 +1,6 @@
 # Problem Set 1
 
-Answer the following questions related to performing the requested tasks and then include your answers in an electronic file, save as a pdf, and merge together as a single pdf with bookmarks added to identify different sections.  Upload your PDF file to the Blackboard Assignment page for Problem Set 2 by 5 pm on the due date.
+Answer the following questions related to performing the requested tasks and then include your answers in an electronic file, save as a pdf, and merge together as a single pdf.  Upload your PDF file to the Blackboard Assignment page for Problem Set 2 by 5 pm on the due date.
 
 1. Download a nucleotide sequence from GenBank for a gene of interest.  What gene did you download?  Was the sequence published?  Where, when, and by whom?  What format is your nucleotide sequence in? Why is this gene of interest?
 2. Perform a BLAST search with your DNA sequence.  What does it match to (show the top 10 hits)?  Are they from the same study or different studies?  Is your sequence protein coding or not?  What is the E-value of hit number 10 compared to hit number 1?  What is an E-value?
@@ -15,4 +15,4 @@ AGTAGTTCCTCGGAAAGTTCTTCGACTCTTCCTTGAAACA
 TGTCTTCCTGGAGCAACCAACCTGCCATGGATGATTATGG
 ```
 Answer the following questions:
-What does this sequence encode?  From what organism does this sequence come?  What is the function of this gene? What are the proportions of polar, non-polar, and charged amino acids?  (attach a link to or copy of the resource you used to help you determine the last question)
+What does this sequence encode?  From what organism does this sequence come?  What is the function of this gene? What are the proportions of polar, non-polar, and charged amino acids?  (attach a link to or copy of the resource you used to help you determine the last question.
