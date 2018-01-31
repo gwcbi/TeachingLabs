@@ -37,5 +37,5 @@ For example, the sequence above from Part 1 should become:
 ````
 Now that you've saved your old data, use regular expressions to extract the desired information in the new format and save it as a new file. Then, attach this sample:location list to your homework submission as well.
 
-# Reminders
+## Reminders
 - Be sure that your submission includes three parts: your **written answers to the three sections**, the reformatted file from **Part 1** and the reformatted file from **Part 2**.
