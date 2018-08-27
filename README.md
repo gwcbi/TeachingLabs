@@ -1,7 +1,7 @@
 # Computational Biology Institute Teaching Resources
 
 This Github repository is meant to be paired with the BISC2584/PUBH3199 (3201) course at the George Washington University.
-There are two types of assignments: labs and problem sets. 
+There are two types of assignments: labs (slightly more involved) and problem sets. 
 
 ## Labs
 Labs are designed to provide in-depth experience in developing novel software, using existing software, and manipulating data. Labs are meant to be written up in the style of a scientific manuscript, complete with references in the style of the academic journal "Bioinformatics". Students are allowed and encouraged to work collaboratively on the labs, however, the writing in each lab report must be the original work of the individual student.
