@@ -1,7 +1,7 @@
 # Problem Set 2
 **DUE: September 11, 11:59 PM**
 
-Answer **all* of the following questions related to performing the requested tasks and then include your answers in an electronic file, save as a pdf, and merge together as a single pdf with bookmarks added to identify different sections.  Upload your pdf file to the Blackboard Assignment page for Problem Set 2 by 5 pm on the due date.
+Answer **all** of the following questions related to performing the requested tasks and then include your answers in an electronic file, save as a pdf, and merge together as a single pdf with bookmarks added to identify different sections.  Upload your pdf file to the Blackboard Assignment page for Problem Set 2 by 5 pm on the due date.
 Show your work or explain how you found your answer where possible.
 
 1.	Download a nucleotide sequence from GenBank for a gene of interest.  What gene did you download?  Was the sequence published?  Where, when, and by whom?  What format is your nucleotide sequence in? Why is this gene of interest?
@@ -11,9 +11,9 @@ Show your work or explain how you found your answer where possible.
 5.	Translate the following sequence to amino acids (assuming the reading frame starts at the first letter):
 
 ```
-ccgtcgtagc accgagcctc agcaccacga aagagattga agtagttcct
-cggaaagttc ttcgactctt ccttgaaaca tgtcttcctg gagcaaccaa 
-cctgccatgg atgattatgg
+ccgtcgtagc accgagcctc agcaccacga aagagattga
+agtagttcct cggaaagttc ttcgactctt ccttgaaaca
+tgtcttcctg gagcaaccaa cctgccatgg atgattatgg
 ```
 
 What does this sequence encode?  From what organism does this sequence come?  What is the function of this gene? What are the proportions of polar, non-polar, and charged amino acids (attach a link to or copy of the resource you used to help you determine this)?
