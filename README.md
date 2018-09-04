@@ -10,6 +10,7 @@ Labs are designed to provide in-depth experience in developing novel software, u
 Problem sets are key to exploring the concepts introduced both in class and in the textbook. These are meant to provide an opportunity to more deeply understand concepts and put them into practice and provide an opportunity for data manipulation. Students are permitted to work collaboratively, in groups, on the problem sets.
 
 [Problem Set 1](ProblemSets/PS1/PS1.md)  [[pdf]](ProblemSets/PS1/PS1.pdf)
+[Problem Set 2](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf)
 
 ## In-Class Exercises
 In addition, we also host some in-class exercise files here.
