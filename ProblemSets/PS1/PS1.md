@@ -28,9 +28,9 @@ GCATCAT
 
 Please conduct the following:
 
-1. Translate this nucleotide sequence to amino acids and provide the amino acid sequence in FASTA format for each of 6 possible reading frames.  Which do you like best?  Why?
+1. Translate this nucleotide sequence to amino acids and provide the amino acid sequence in FASTA format for each of 6 possible reading frames.  Which do you think is most likely to be the "true" reading frame?  Why?
 
-2. What is the frequency of A’s, C’s, G’s and T’s in this nucleotide sequence?  What is your expected frequency of these nucleotides and does your data meet your expectations?
+2. What is the frequency of A’s, C’s, G’s and T’s in this nucleotide sequence?  What is your (naively) expected frequency of these nucleotides and does your data meet your expectations?
 
 3. Design a pair of PCR primers to amplify these gene region based on the provided sequence.  What are your primer sequences?  How did you decide on these primers?  What factors did you take into account in designing this primer pair?
 
