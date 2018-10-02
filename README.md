@@ -27,3 +27,5 @@ In addition, we also host some in-class exercise files here.
 [Introductory Exercise](Exercises/IntroExercise.md)  [[pdf]](Exercises/IntroExercise.pdf)
 
 [Lecture 3 Exercise](Exercises/Lecture3/Lecture3Exercise.md)  [[pdf]](Exercises/Lecture3/Lecture3Exercise.pdf)  [[fasta]](Exercises/Lecture3/Lecture3Data.fasta)
+
+[Lecture 6 FASTA data](Exercises/Lecture6Data.fasta)
