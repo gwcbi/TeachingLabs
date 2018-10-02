@@ -12,4 +12,4 @@ Answer **all** of the following questions related to performing the requested ta
 
 3.	Determine the Best Fit model of molecular evolution for each data set.  What is your model? Why did you select this model? What are your parameters in this model?  What are the estimated parameter values?
 
-4.	Use the best-fit model to estimate a distance matrix for each data set.  How your distance matrix.  What does this tell you about the sequences?
+4.	Use the best-fit model to estimate a distance matrix for each data set.  Show your distance matrix.  What does this tell you about the sequences?
