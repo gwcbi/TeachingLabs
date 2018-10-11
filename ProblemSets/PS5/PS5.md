@@ -1,6 +1,6 @@
 # Problem Set 5
 
-Due: October 18, 11:59 PM.
+Due: October 23, 11:59 PM.
 
 ## Assignment
 
