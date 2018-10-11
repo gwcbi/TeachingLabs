@@ -21,6 +21,8 @@ Problem sets are key to exploring the concepts introduced both in class and in t
 
 [Problem Set 4](ProblemSets/PS4/PS4.md)  [[pdf]](ProblemSets/PS4/PS4.pdf)
 
+[Problem Set 5](ProblemSets/PS5/PS5.md)  [[pdf]](ProblemSets/PS5/PS5.pdf)
+
 ## In-Class Exercises
 In addition, we also host some in-class exercise files here.
 
