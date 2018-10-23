@@ -23,6 +23,8 @@ Problem sets are key to exploring the concepts introduced both in class and in t
 
 [Problem Set 5](ProblemSets/PS5/PS5.md)  [[pdf]](ProblemSets/PS5/PS5.pdf)
 
+[Problem Set 6](ProblemSets/PS6/PS6.md)  [[pdf]](ProblemSets/PS6/PS6.pdf) Supplementary files on Blackboard.
+
 ## In-Class Exercises
 In addition, we also host some in-class exercise files here.
 
