@@ -24,12 +24,12 @@ CCCCCCTGTGAGAATGCCCATAACGCCCTGCTCGGGAACAAGGAGCTGGCATCAGGCACA
 
 The series of letters, numbers and dots immediately after the `>` sign is the name of the sequence (AB000667.1.2469.3417). The naming scheme is as following: `AB000667.1` is the GenBank accession number and version. You can look up the original sequence in GenBank with that. The next part, `.2469.3417`, denotes the the beginning and end of where the sequence was "cut out" of the original, bigger GenBank entry. So this entry in MIDORI is cut out of the original sequences from position 2469 to position 3417.
 
-The next part of the name is separated by a tab (not a space and not multiple spaces). "root;Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Paralichthyidae;Paralichthys;Paralichthys olivaceus" is a summary of the taxonomic classification of the organism that the sequence comes from. *Paralichthys olivaceus* is the species name of the olive flounder, which this sequence comes from. *Paralichthys* is the genus. Paralichthyidae is the family. Pleuronectiformes is the order and *etc*. "root" just denotes the beginning of the taxonomic lineage information.
+The next part of the name is separated by a tab (not a space and not multiple spaces). "root;Eukaryota;Chordata;Actinopteri;Pleuronectiformes;Paralichthyidae;Paralichthys;Paralichthys olivaceus" is a summary of the taxonomic classification of the organism that the sequence comes from. *Paralichthys olivaceus* is the scientific name of the olive flounder, which this sequence comes from. *Paralichthys* is the genus. Paralichthyidae is the family. Pleuronectiformes is the order and *etc*. "root" just denotes the beginning of the taxonomic lineage information.
 
 Using regular expressions, reformat the data to the following format:
 
 ```
->AccessionNumber.Version SpeciesName
+>AccessionNumber.Version ScientificName
 nucleotide sequence
 nucleotide sequence, continued
 nucleotide sequence, continued
@@ -37,7 +37,7 @@ etc...
 ```
 ### Requirements:
 - The sequence name is just the Accession number followed by the version number (e.g. AB000667.1)
-- This is followed by a space and then the species name. There should be a space between the genus and species name (e.g. Paralichthys olivaceus).
+- This is followed by a space and then the scientific name. There should be a space between the genus and species name (e.g. Paralichthys olivaceus).
 
 While looking through the data, you might notice that some sequences are formatted slightly differently for whatever reason! For example, I noticed that some sequences have underscores in the numbers that denote where the sequence is cut out of the larger GenBank sequence. For example, here is one:
 ```
@@ -50,7 +50,7 @@ More information on the MIDORI curated databases can be found in the following p
 
 ## Part 2
 
-Suppose that a program you want to use requires you to have the sequence headers to be just the name of the sequence, which should be the the species name with the space replaced with an underscore.
+Suppose that a program you want to use requires you to have the sequence headers to be just the name of the sequence, which should be the scientific name with the space replaced with an underscore.
 For example, the first sequence from Part 1 should become just:
 ````
 >Paralichthys_olivaceus
