@@ -21,8 +21,8 @@ Develop a python script that:
 
 1. opens the provided nucleotide FASTA file (but could work with any other nucleotide FASTA file). You may assume that the 
 2. calculates the frequency of the four nucleotides in each sequence and across all samples.
-3. compares the frequency of transitions to transversions (where transitions or transversions are clear and unambiguous).
-4. writes to an output file the frequencies of the nucleotides in each sequence **and** across all sequences and the proportions of transitions to transversions.  
+3. compares the frequency of transitions to transversions (where transitions or transversions are clear and unambiguous). You should assume that the sequences provided are perfectly aligned. You may not be able to tell if a transition or transversion occurred at some sites—ignore these sites in your counts.
+4. writes to an output file the frequencies of the nucleotides in each sequence **and** across all sequences **and** the proportion of transitions to transversions.  
 
 Be sure to annotate your script with LOTS of descriptive & informative comments, including, a comment at the top describing what the software does, how to use it, required input & expected output, comments defining variables, comments defining functions, etc. Your script should run without producing any error or warning messages when run on the provided FASTA file as well as our different FASTA file that we will use for testing.
 
