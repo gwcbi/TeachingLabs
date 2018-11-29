@@ -37,3 +37,16 @@ In addition, we also host some in-class exercise files here.
 [Lecture 3 Exercise](Exercises/Lecture3/Lecture3Exercise.md)  [[pdf]](Exercises/Lecture3/Lecture3Exercise.pdf)  [[fasta]](Exercises/Lecture3/Lecture3Data.fasta)
 
 [Lecture 6 FASTA data](Exercises/Lecture6Data.fasta)
+
+## Research Project (Final)
+
+Students will choose a unique project to work on. At the end of the semester, students will give
+a class presentation on their project and submit a written project report as well in the form of a
+scientific poster. Students are strongly encouraged to work in groups of up to three on their
+projects, however such groups will be expected to give a proportionally longer presentation in
+which each member contributes fairly. Many forms of projects will be acceptable, as long as
+they are interesting, informative, and related to the course topics.
+
+[Research Project Assignment #1](Project/Assignment1.md) [[pdf]](Project/Assignment1.pdf)
+
+[Research Project Assignment #2](Project/Assignment2.md) [[pdf]](Project/Assignment2.pdf)
