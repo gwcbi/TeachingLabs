@@ -50,3 +50,5 @@ they are interesting, informative, and related to the course topics.
 [Research Project Assignment #1](Project/Assignment1.md) [[pdf]](Project/Assignment1.pdf)
 
 [Research Project Assignment #2](Project/Assignment2.md) [[pdf]](Project/Assignment2.pdf)
+
+[Final Project Instructions/Guidelines](Project/ProjectInstructions.md) [[pdf]](Project/ProjectInstructions.pdf)
